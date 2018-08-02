@@ -96,7 +96,7 @@
             "name": "Python: All debug Options",
             "type": "python",
             "request": "launch",
-            "pythonPath": "D:\\ProgramData\\Anaconda3",
+            "pythonPath": "D:\\ProgramData\\Anaconda3\\python.exe",
             "program": "${file}",
             "module": "module.name",
             "env": {
